@@ -1,0 +1,21 @@
+1 passo:
+   escreve a palavra chave "function"
+2 passo:
+   dá um nome a funçao
+3 passo:
+   escreve parenteses (), e dentro deles os
+   parametros nessecarios para a funçao.
+4 passo:
+   delimita o inicio e fim da funçao com o
+   sinbolo da chave {}
+5 passo:
+  entre as chaves será escrito o código
+  da programaçao da função. se o caso nescessário
+  será usado a palavra-chave return para retorno
+  dos valores necessarios.
+    
+criar uma fuçao que ao ser chamada escreva o nome de quem a chamou.
+
+criar uma fuçao que retorne a soma de 3 numeros passados por parametro 
+
+criar uma fuçao que escreva o resultado da seguinte equaçao x=a+b*c
